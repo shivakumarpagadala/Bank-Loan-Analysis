@@ -1,12 +1,12 @@
 
-📊 BANK LOAN ANALYSIS – END-TO-END PROJECT
+##BANK LOAN ANALYSIS – END-TO-END PROJECT
 =========================================
 
 **Tools Used:** Microsoft SQL Server | Power BI | Python | Excel | Tableau
 
 ------------------------------------------------------------
 
-📁 PROJECT OVERVIEW
+ PROJECT OVERVIEW
 -------------------
 This is an **end-to-end data analytics project** designed to analyze bank loan performance, borrower trends, and portfolio health.
 
@@ -20,7 +20,7 @@ Goal: Provide actionable insights for loan monitoring, risk assessment, and deci
 
 ------------------------------------------------------------
 
-🛠️ TECH STACK
+ TECH STACK
 --------------
 
 1. **Microsoft SQL Server**
